@@ -26,3 +26,6 @@ Enter the resultant vector:
 2
 
 The solution vector Is: [1.00, -1.00, 1.00]
+
+
+The full2.c is for fitting a polynomial for a given set of data points. It is under construction.
